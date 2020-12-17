@@ -1,0 +1,31 @@
+SOCMINT:
+
+Facebook
+
+ExractFace - extracts data from Facebook, making it available offline to use as evidence or perform advanced offline analysis. - https://sourceforge.net/projects/extractface/
+Facebook Sleep Stats - estimates sleeping patterns based on users online/offline status. - https://github.com/sqren/fb-sleep-stats
+lookup-id.com - helps you to find the Facebook ID for a profile or a group. - https://lookup-id.com/
+
+Twitter
+
+Twitter advanced search - https://twitter.com/search-advanced — well, that’s pretty self-explanatory :)
+TweetDeck - https://tweetdeck.twitter.com/ — gives you a dashboard that displays separate columns of activity from your Twitter accounts. For example, you might see separate columns for your home feed, your notifications, your direct messages, and your activity — all in one place on the screen.
+Trendsmap - https://www.trendsmap.com/ — shows you the most popular trends, hashtags, and keywords on Twitter from anywhere around the world.
+Foller - https://foller.me/ — gives you rich insights about any public Twitter profile (profile public information, number of tweets and followers, topics, hashtags, mentions).
+Socialbearing - https://socialbearing.com/ — free Twitter analytics & search for tweets, timelines & twitter maps. Finds, filters, and sorts tweets or people by engagement, influence, location, sentiment, and more.
+Sleepingtime - http://sleepingtime.org/ — shows the sleeping schedule of Twitter public accounts.
+Tinfoleak - https://tinfoleak.com/ — shows devices, operating systems, applications and social networks used by the Twitter user. Also, it shows places and geolocation coordinates to generate a tracking map of locations visited. Maps user tweets in Google Earth and more.
+
+Instagram
+
+www.picodash.com — exports followers statistics of a selected user or statistics by a selected hastag to a spreadsheet (CSV). Also, it exports likers and comments.
+https://web.stagram.com — online Image and Video Viewer/Downloader.
+https://codeofaninja.com/tools/find-instagram-user-id — gets user ID. Usernames might change so it’s useful to know profile’s ID to not to lose the page.
+http://instadp.com — shows profile picture in full size.
+https://sometag.org — searches for trending hashtags, locations and accounts. In addition, it compares accounts and exports followers and hashtag statistics.
+
+LinkedIn
+
+InSpy - https://github.com/leapsecurity/InSpy — an enumeration tool that is written in Python. Can be used to search for employees of a specific organization. Additionally, it can find out what technologies the organization uses, which is done by a crawling job listing for specific keywords.
+LinkedInt - https://github.com/vysecurity/LinkedInt — scrapes e-mail addresses of employees in a selected organization. Supports automated e-mail prefix detection for a given company domain name.
+ScrapedIn - https://github.com/dchrastil/ScrapedIn — a Python script that scrapes profile data and imports it into XLSX file (intended to be used with Google Spreadsheets).
